@@ -1,0 +1,5 @@
+PULSE — WINDOWS IN 2 MINUTI
+
+PORTABLE: apri https://rega07cr.github.io/pulse-security-guard/Pulse-Security-Guard-Portable.html e salva (Ctrl+S).
+MSI REALE: sorgente zip dalla Release, cd agent-desktop, npm install, npm run tauri:build.
+VT: key gratis su virustotal.com. Se virus: isola, firma/percorso, hash, Startup, Defender offline.
