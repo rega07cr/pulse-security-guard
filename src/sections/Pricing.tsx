@@ -1,1 +1,1 @@
-export function Pricing() { return <section id="download"><h2>Scarica Free — Pro con storico 24h — Team fleet</h2><a href="#download">Scarica .msi 15MB</a></section> }
+export function Pricing() { return <section id="download"><h2>Gratis per sempre</h2><a href="https://github.com/rega07cr/pulse-security-guard/releases/tag/v1.1.0">Scarica per Windows — v1.1.0</a><p>Portable HTML subito + sorgente + istruzioni INSTALLA-Windows.txt. MSI ~15MB via tauri:build.</p></section> }
