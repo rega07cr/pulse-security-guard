@@ -1,3 +1,14 @@
 @import 'tailwindcss';
-:root { --color-bg: #0D0D0F; }
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Outfit', sans-serif;
+  --color-bg: #0D0D0F;
+  --color-surface: #1a1a1e;
+  --color-line: rgb(255 255 255 / 0.08);
+  --color-fg: #f2f4f6;
+  --color-muted: #a7aeb8;
+  --color-accent: #10b981;
+  --color-accent-2: #38bdf8;
+  --color-accent-3: #ff6b5e;
+}
 body { background: #0D0D0F; color: #f2f4f6; }
