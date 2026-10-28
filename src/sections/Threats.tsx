@@ -1,0 +1,1 @@
+export function Threats() { return <section id="sicurezza"><h2>Hash SHA-256 + VirusTotal, miner nascosti, Publisher Check, Rete + Startup</h2><p>Trovato virus? Isola, verifica hash, disabilita Startup, Defender offline.</p></section> }
