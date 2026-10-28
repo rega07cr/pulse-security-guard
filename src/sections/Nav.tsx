@@ -1,1 +1,1 @@
-export function Nav() { return <header><a href="#">Pulse</a></header> }
+export function Nav() { return <header><a href="#">Pulse Security Guard</a><nav><a href="#features">Features</a><a href="#sicurezza">Sicurezza</a><a href="#showcase">Showcase</a><a href="#download">Scarica</a></nav></header> }
