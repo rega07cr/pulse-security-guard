@@ -1,0 +1,13 @@
+export const brand = { name: 'Pulse', tagline: 'Riprendi il controllo del tuo PC' };
+export const nav = { links: [{label:'Features',href:'#features'},{label:'Sicurezza',href:'#sicurezza'},{label:'Showcase',href:'#showcase'}], signIn:{label:'GitHub',href:'#'}, cta:{label:'Scarica',href:'#download'} };
+export const hero = { badge:'v1.1 Tauri+React', title:['Riprendi il controllo','del tuo PC'], description:'Monitor + Security Guard: CPU/RAM/GPU/Disco/Rete + scanner minacce, VirusTotal, Startup.', primary:{label:'Scarica per Windows',href:'#download'}, secondary:{label:'Vedi schermate',href:'#showcase'}, footnote:'Gratis Windows 10/11' };
+export const logos = ['Tauri','React','Rust','Windows'];
+export const features = { eyebrow:'Features', title:'Task Manager + Security', description:'Refresh 1.5s', items:[{key:'processi',title:'Processi',description:'Ordinabile',span:2},{key:'health',title:'Health',description:'Score 0-100',span:1},{key:'sicurezza',title:'Security Guard',description:'Firme, miner, VT',span:1},{key:'storico',title:'Storico',description:'60 campioni',span:2}] };
+export const steps = { eyebrow:'Come', title:'30 secondi', items:[{title:'Scarica',description:'msi 15MB'},{title:'Leggi Health',description:'Colpevoli in cima'},{title:'Isola',description:'Un clic'}] };
+export const showcase = { eyebrow:'Showcase', title:'Tre viste', tabs:[{key:'lista',title:'Lista',description:'Picchi'},{key:'health',title:'Health',description:'Storico'},{key:'kill',title:'Kill',description:'Sicura'}] };
+export const metrics = [{value:15,suffix:'MB',label:'msi'},{value:1.5,suffix:'s',label:'refresh'},{value:2,suffix:'%',label:'CPU'},{value:100,suffix:'',label:'protetti'}];
+export const testimonials = { eyebrow:'Recensioni', title:'Dicono', items:[{quote:'Trova i miner nascosti.',name:'Marco R.',role:'Gamer',hue:160}] };
+export const pricing = { eyebrow:'Download', title:'Gratis', description:'Sul tuo PC', yearlyNote:'Lifetime', tiers:[{name:'Free',monthly:0,yearly:0,description:'Monitor',cta:'Scarica',features:['Lista','Health']},{name:'Pro',monthly:3,yearly:2,description:'Pro',cta:'Soon',popular:true,features:['Storico 24h']},{name:'Team',monthly:8,yearly:6,description:'IT',cta:'Contattaci',features:['Fleet']}] };
+export const faq = { title:'FAQ', items:[{q:'Come scansiona?',a:'SHA-256 + VirusTotal + euristiche.'},{q:'Trovato virus?',a:'Isola, verifica hash, disabilita Startup, Defender offline.'},{q:'Dati?',a:'Zero telemetria, tutto locale.'}] };
+export const cta = { title:'Respira', description:'Scarica Pulse', placeholder:'email', button:'Avvisami', success:'Ok' };
+export const footer = { blurb:'Pulse Security Guard', columns:[{title:'Prodotto',links:['Features']}], legal:'Pulse' };
