@@ -1,0 +1,8 @@
+PULSE SECURITY GUARD — WINDOWS (2 minuti)
+
+A) PORTABLE: scarica Pulse-Security-Guard-Portable.html dalla Release, doppio clic.
+B) AGENT REALE: sorgente zip, Rust + Node 20, cd agent-desktop, npm install, npm run tauri:dev, npm run tauri:build (.msi ~15MB).
+
+VirusTotal: key gratis su virustotal.com, incollala nel campo VT.
+Se virus: isola, firma/percorso, hash su VT, disabilita Startup, Defender offline.
+Repo: https://github.com/rega07cr/pulse-security-guard
